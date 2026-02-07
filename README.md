@@ -22,3 +22,6 @@ Using any available methods, transfer the ringtone to your phone and set it as y
 ## Установка
 
 Любыми доступными вам методадами переносите двук рингтона на телефон ии устанавливаете его как звук будильника по рабочим дням. 
+
+
+## PS. Спасибо за идею Mikhail Isaev и TG каналу https://t.me/bashday
