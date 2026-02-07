@@ -1,5 +1,7 @@
 # it_alarm_clock
 
+![Logo](https://github.com/pdacity/it_alarm_clock/blob/main/it_alarm_clock.jpg)
+
 The most effective ringtone for an IT alarm clock.
 The only thing scarier than this is the silence in the server room.
 
