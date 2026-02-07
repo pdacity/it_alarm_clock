@@ -5,10 +5,18 @@ The only thing scarier than this is the silence in the server room.
 
 Use with caution, as it can cause panic attacks and mental instability.
 
+## Instalation
 
+Using any available methods, transfer the ringtone to your phone and set it as your alarm sound on weekdays.
+
+---
 
 # рингтон будильника для ИТ специалистов
 
 самый эффективный рингтон для будильник  для ИТ. Страшнее него только тишина в серверной.
 
 Внимание применять с осторожностью, может вызывать панические атаки и дестабилизацию психиуи. 
+
+## Установка
+
+Любыми доступными вам методадами переносите двук рингтона на телефон ии устанавливаете его как звук будильника по рабочим дням. 
